@@ -71,7 +71,7 @@ Info2Chart運営事務局(以下「当方」といいます) は、当方が提�
 本ポリシーに関するお問い合わせは、以下までご連絡ください。
 
 - 運営者名：Info2Chart運営事務局
-- 連絡先メールアドレス：info2chart.support@gmail.com
+- 連絡先メールアドレス：info2chart_support@icloud.com
 
 ## 8. 本ポリシーの変更
 
